@@ -15,6 +15,10 @@ Transform the way you analyze facial data with our face detector integrated with
 &nbsp;
 
 ## 📷 Demo
+<p align="center" >
+<img width="500" heigth="300" src="https://user-images.githubusercontent.com/104341274/216804498-5e486be4-87e5-4d83-ad37-62417fa7fd96.png">
+</p>
+
 
 ## 📌 Requirements
 
